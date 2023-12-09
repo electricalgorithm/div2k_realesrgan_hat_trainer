@@ -1,3 +1,4 @@
-.codebases
-.datasets
-.scripts
+.codebases/
+.datasets/
+.scripts/
+.vscode/
