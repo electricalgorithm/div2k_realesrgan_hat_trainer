@@ -2,3 +2,4 @@
 .datasets/
 .scripts/
 .vscode/
+.DS_Store
